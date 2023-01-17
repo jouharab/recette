@@ -1,0 +1,58 @@
+body{
+    background-color: rgba(142, 75, 136, 0.432);
+}
+#titre{
+    font-size: 600%;
+    text-align: center;
+    
+   
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.blockingredient{
+    background-color: aliceblue;
+    background-size: 500%;
+    line-height : 150% ;
+}
+
+
+.blockustensiles{
+    background-color: aliceblue;
+    line-height : 150% ;
+ 
+}
+.blockprepa{
+    background-color: aliceblue;
+    line-height : 150% ;
+ 
+}
+h1{
+    background-color: rgba(164, 91, 142, 0.539);
+    border-radius: 5%;
+    line-height : 150% ;
+    
+}
+
+.blockétape{
+    background-color: aliceblue;
+    line-height : 150% ;
+}
+.étape{
+    font-weight: bold;
+    line-height : 300% ;
+}
+
+.blockcommentaire{
+    background-color: aliceblue;
+    line-height : 10% ;
+ 
+}
+
+#pseudo{
+    font-weight: bold;
+    line-height : 80%; 
+}
